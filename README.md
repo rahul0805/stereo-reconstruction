@@ -1,4 +1,4 @@
-# Stereo_Recomstruction
+# Stereo_Reconstruction
 Recovering 3D map from the Stereo images from [KITTI Dataset](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
 # PnP-Levenberg-Marquadt
